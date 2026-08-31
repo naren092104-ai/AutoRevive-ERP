@@ -1,0 +1,6 @@
+{
+  "name": "AutoRevive HR Document Portal & Offer Analyzer",
+  "description": "Professional corporate HR document viewer, customizable offer & appointment letter generator, and comparative offer benchmark analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

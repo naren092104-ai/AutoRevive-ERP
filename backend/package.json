@@ -1,0 +1,8 @@
+{
+  "name": "autorevive-backend",
+  "private": true,
+  "scripts": {
+    "dev": "node ../node_modules/tsx/dist/cli.mjs server.ts",
+    "start": "set NODE_ENV=production&& node dist/server.mjs"
+  }
+}
